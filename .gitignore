@@ -1,0 +1,20 @@
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data and model checkpoints (keep heavy files out of Git)
+data/
+*.pt
+*.pth
+*.bin
+*.h5
+*.csv
+
+# Environment files (just in case)
+.env
+.venv/
+
+# VS Code settings
+.vscode/
