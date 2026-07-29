@@ -10,7 +10,6 @@ data/
 *.pth
 *.bin
 *.h5
-*.csv
 
 # Environment files (just in case)
 .env
