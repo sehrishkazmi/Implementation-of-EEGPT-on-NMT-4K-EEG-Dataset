@@ -5,7 +5,8 @@ __pycache__/
 .pytest_cache/
 
 # Data and model checkpoints (keep heavy files out of Git)
-data/
+data/processed_eegpt/
+data/raw/
 *.pt
 *.pth
 *.bin
