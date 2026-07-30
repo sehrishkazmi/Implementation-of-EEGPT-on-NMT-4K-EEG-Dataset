@@ -139,3 +139,5 @@ def validate_processed_eegpt_data(
 
 if __name__ == "__main__":
     validate_processed_eegpt_data()
+
+# another script to check the sampling rate and duration of these eeg windows
