@@ -1,3 +1,4 @@
+# GPU connected
 import torch
 
 # Dynamically select GPU if available
