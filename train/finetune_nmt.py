@@ -172,4 +172,4 @@ if __name__ == "__main__":
                     print(f"           🛑 Early stopping triggered at epoch {epoch}!", flush=True)
                     break
     else:
-        print(f"\n⚠️ Notice: Could not find {CSV_PATH}. Skipping training loop.", flush=True)
+        print(f"\n⚠️ Notice: Could not find {CSV_PATH}. Skipping training loop.", flush=True) # running pipeline to prevent overfitting
